@@ -1,0 +1,23 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "A collection of cruise ship objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrcatros/cruise-ships.git"
+  },
+  "author": "Andreea Ros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrcatros/cruise-ships/issues"
+  },
+  "homepage": "https://github.com/andrcatros/cruise-ships#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "test": "jest"
+}
